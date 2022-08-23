@@ -1,0 +1,16 @@
+1. öğrenci girişi
+2. sınav hazırlama
+3. sınav uygulama 
+4. raporlar(sınavın detaylı başarı listesi)
+5. Öğrenci ekleme-silme-listeleme
+6. soru bankası oluşturma- ekleme - silme
+
+
+_______________________
+hazirlanan sınavlar
+sinavID = 1
+sinavsüresi = 40
+sinavSorulari  = (1,5,8,96,35,)//soru ID
+sinavAdi = Nesneye Dayalı Programlama Vize 1
+gecmepuani = 50
+
